@@ -1,5 +1,5 @@
 import React from 'react';
-import spinner from './spinner.gif';
+import spinner from './spinner1.gif';
 
 export default () => {
   return (
@@ -7,7 +7,7 @@ export default () => {
       <img
         src={spinner}
         alt={'Loading...'}
-        style={{ width: '80px', margin: '40px auto', display: 'block' }}
+        style={{ width: '200px', margin: '40px auto', display: 'block' }}
       />
     </div>
   );
