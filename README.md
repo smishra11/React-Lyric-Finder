@@ -1,3 +1,6 @@
+### API key
+You have to add your own API key from https://developer.musixmatch.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
