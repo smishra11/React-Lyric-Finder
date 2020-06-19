@@ -43,6 +43,7 @@ class Search extends Component {
               <form onSubmit={this.findTrack.bind(this, dispatch)}>
                 <div className="form-group">
                   <input
+                    autoComplete="off"
                     type="text"
                     className="form-control form-control-lg"
                     placeholder="Song title..."
