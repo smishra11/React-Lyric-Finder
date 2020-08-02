@@ -1,4 +1,7 @@
-### API key
+## Deploy Link
+This app is deployed in netlify. Link -https://react-lyricsfinder.netlify.app
+
+### `API key`
 You have to add your own API key from https://developer.musixmatch.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
