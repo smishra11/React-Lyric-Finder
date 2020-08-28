@@ -1,7 +1,7 @@
 ## Deploy Link
 This app is deployed in netlify. Link -https://react-lyricsfinder.netlify.app
 
-###`App Preview`
+### `App Preview`
 ![Screenshot from 2020-08-29 00-51-14](https://user-images.githubusercontent.com/53392598/91607659-e03f5c80-e991-11ea-83ce-4b60af778ee8.png)
 
 ### `API key`
